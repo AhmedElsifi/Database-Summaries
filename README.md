@@ -37,7 +37,7 @@ Database-Summaries/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/Database-Summaries.git
+git clone https://github.com/AhmedElsifi/Database-Summaries.git
 ```
 
 2. Open the SQL scripts in **SSMS** or any SQL Server environment.
