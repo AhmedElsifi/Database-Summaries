@@ -781,8 +781,4 @@ INSERT INTO Employees (Salary) VALUES (50000.00);  -- Must be > 0
 -- Solution 3: Temporarily disable constraints (not recommended for production)
 ```
 
----
 
-## **Summary**
-
-DML operations are fundamental to working with data in SQL Server. Understanding the nuances of each command, their constraints, and the proper order of operations is crucial for effective database management. Always consider data integrity, performance implications, and business requirements when performing DML operations.
